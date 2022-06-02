@@ -1,0 +1,30 @@
+{
+  "name": "rdghbf",
+  "description": "rdghbf2",
+  "keywords": [
+    ""
+  ],
+  "env": {
+    "PROTOCOL": {
+      "description": "协议",
+      "value": "vmess",
+      "required": true
+    },
+    "UUID": {
+      "description": "uuID",
+      "value": "12c27b9b-91ef-4203-8d1f-2fe49dae838a",
+      "required": false
+    },
+    "WS_PATH": {
+      "description": "路径",
+      "value": "/rdghbf",
+      "required": true
+    }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
