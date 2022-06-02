@@ -1,6 +1,6 @@
 {
-  "name": "rdghbf",
-  "description": "rdghbf2",
+  "name": "klsajfls",
+  "description": "klsajfls",
   "keywords": [
     ""
   ],
@@ -12,12 +12,12 @@
     },
     "UUID": {
       "description": "uuID",
-      "value": "12c27b9b-91ef-4203-8d1f-2fe49dae838a",
+      "value": "eb9f3114-8db0-4855-b887-ecb9d3868327",
       "required": false
     },
     "WS_PATH": {
       "description": "路径",
-      "value": "/rdghbf",
+      "value": "/klsajfls",
       "required": true
     }
   },
